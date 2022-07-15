@@ -1,0 +1,1 @@
+F:\Amozesh2021\sorce code\Project_MsA\BaseLibraryAndroid\buildSrc\build\classes\kotlin\main\com\msa\buildsrc\Configuration.class;F:\Amozesh2021\sorce code\Project_MsA\BaseLibraryAndroid\buildSrc\build\classes\kotlin\main\com\msa\buildsrc\Dependencies.class;F:\Amozesh2021\sorce code\Project_MsA\BaseLibraryAndroid\buildSrc\build\classes\kotlin\main\com\msa\buildsrc\Versions.class
