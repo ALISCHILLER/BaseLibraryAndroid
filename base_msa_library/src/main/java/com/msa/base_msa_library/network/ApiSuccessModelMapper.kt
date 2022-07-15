@@ -7,7 +7,7 @@ package com.msa.base_msa_library.network
  *
  * A mapper interface for mapping [ApiResponse.Success] response as a custom [V] instance model.
  *
- * @see [ApiSuccessModelMapper](https://github.com/skydoves/sandwich#apierrormodelmapper)
+ *
  */
 public fun interface ApiSuccessModelMapper<T, V> {
 

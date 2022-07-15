@@ -9,7 +9,7 @@ import okhttp3.Response
 import okhttp3.ResponseBody.Companion.toResponseBody
 
 /**
- * Related: https://github.com/square/retrofit/issues/2867
+ * Related: 
  *
  * An interceptor for bypassing the [com.msa.base_msa_library.network.exceptions.NoContentException]
  * when the server has successfully fulfilled the request with the 2xx code
