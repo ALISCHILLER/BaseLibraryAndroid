@@ -60,4 +60,14 @@ dependencies {
     testImplementation Dependencies.retrofitMoshi
     testImplementation Dependencies.mockitoKotlin
     testImplementation Dependencies.coroutinesTest
+
+    // ViewModel LiveData
+    def lifecycle_version = "2.6.0-alpha01"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:$lifecycle_version"
+    implementation "androidx.lifecycle:lifecycle-extensions:2.2.0"
+    // Lifecycles only (without ViewModel or LiveData)
+    implementation "androidx.lifecycle:lifecycle-runtime-ktx:$lifecycle_version"
+    // Saved state module for ViewModel
+    implementation "androidx.lifecycle:lifecycle-viewmodel-savedstate:$lifecycle_version"
 }

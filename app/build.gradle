@@ -47,12 +47,8 @@ dependencies {
 
     implementation Dependencies.retrofitMoshi
     implementation project(":base_msa_library")
-
     // android supports
     implementation Dependencies.material
-    implementation Dependencies.liveDataKTX
-    implementation Dependencies.viewModelKTX
-
     implementation Dependencies.coroutines
     implementation Dependencies.moshi
     kapt Dependencies.moshiGen
