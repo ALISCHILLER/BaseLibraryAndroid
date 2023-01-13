@@ -1,4 +1,4 @@
-package com.msa.base_msa_library.weight_android.toast
+package com.msa.base_msa_library.weights.toast
 
 import android.app.Activity
 import android.content.Context

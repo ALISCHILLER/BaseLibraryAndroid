@@ -1,4 +1,4 @@
-package com.msa.base_msa_library.weight_android.toast
+package com.msa.base_msa_library.weights.toast
 
 enum class BaseToastStyle {
     SUCCESS, ERROR, WARNING, INFO, DELETE, NO_INTERNET;

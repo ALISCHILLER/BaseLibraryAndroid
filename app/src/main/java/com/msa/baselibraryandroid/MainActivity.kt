@@ -3,10 +3,8 @@ package com.msa.baselibraryandroid
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.core.content.res.ResourcesCompat
-import com.msa.base_msa_library.weight_android.toast.BaseToastStyle
-import com.msa.base_msa_library.weight_android.toast.Base_Toast
-import com.msa.base_msa_library.weight_android.toast.Base_Toast.Companion.GRAVITY_BOTTOM
-import com.msa.base_msa_library.weight_android.toast.Base_Toast.Companion.LONG_DURATION
+import com.msa.base_msa_library.weights.toast.BaseToastStyle
+import com.msa.base_msa_library.weights.toast.Base_Toast
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
